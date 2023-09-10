@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(255, 192, 251);
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+.dados_pessoais{
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffff;
+
+}
+
+.resumo_profissional{
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffff;
+
+}
+
+.educacao{
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffff;
+}
+
+.experiencia_profissional{
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffff;
+}
+
+.habilidades{
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffff;
+}
+
+
+.rodape{
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffff;    
+
+}
